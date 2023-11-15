@@ -1,0 +1,14 @@
+.AboutMePage-Text{
+    width: 100%;
+    margin-top: 5%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #252525;
+    padding: 0% 10%;
+}
+.AboutMePageImage{
+    width: 95%;
+    height: 90%;
+}
+.row{
+    margin: 5% 0%;
+}

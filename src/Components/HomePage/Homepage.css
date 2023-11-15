@@ -1,0 +1,19 @@
+.SkillContainer1{
+    background: #252525;
+    margin-top: 10% ;
+}
+.SkillContainer2{
+    width: 70%;
+    margin-left: 15%;
+    padding: 5% 0%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Heading{
+    color: #252525;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: normal;
+
+}
+  

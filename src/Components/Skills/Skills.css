@@ -1,0 +1,12 @@
+.progress-bar-base{
+  border: 2px solid rgb(255, 240, 240);
+  height: 20px;
+  border-radius: 14px;
+}
+.progress-bar-main{
+  background-color: #ff8d1e;
+  height: 17px;
+  border-radius: 14px;
+
+}
+

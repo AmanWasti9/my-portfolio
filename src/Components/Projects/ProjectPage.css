@@ -1,0 +1,14 @@
+.Project-Main{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.Project-Text{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #252525;
+    width: 60%;
+}
+.Project-Image{
+    width: 30%;
+    margin-left: 5%;
+}

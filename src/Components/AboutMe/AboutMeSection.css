@@ -1,0 +1,43 @@
+
+.AboutMe-Main{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #252525;
+    padding: 0% 15%;
+    margin-bottom: 5%;
+}
+.square1{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    z-index: 1;
+    margin-left: 60px;
+    border: 10px solid #ff8d1e;
+}
+
+
+.square-image{
+    border: 10px solid #252525;
+    width: 300px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 60px;
+}
+
+.Read-More-btn{
+    text-decoration: none;
+    color: #252525;
+    background-color: white;
+    border: 2px solid #252525;
+    border-radius: 6px;
+    padding: 5px 15px;
+    transition: color 0.3s ease; 
+    transition: background-color 0.3s ease; 
+}
+.Read-More-btn:hover {
+    background-color: #252525;
+    color: white;
+}
+.AboutMe-Image{
+    margin-top: 5%;
+
+}
