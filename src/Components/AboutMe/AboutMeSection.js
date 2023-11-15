@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import "./AboutMeSection.css";
-import AmanPic from "../../Images/amanpic.jpg";
+import AmanPic from "../../Images/aman.png";
 import { Link } from "react-router-dom";
 import "animate.css/animate.css";
 
