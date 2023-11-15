@@ -12,3 +12,18 @@
     width: 30%;
     margin-left: 5%;
 }
+.btn1{
+    border: 2px solid #ff8d1e;
+    color: #252525;
+    background-color: #ff8d1e;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.btn2{
+    border: 2px solid #252525;
+    color: #ff8d1e;
+    background-color: #252525;
+    margin-left: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

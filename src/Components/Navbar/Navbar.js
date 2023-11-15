@@ -4,6 +4,7 @@ import "./Navbar.css";
 import { Link } from "react-router-dom";
 import { Button } from "@mui/material";
 import 'animate.css/animate.css';
+import portfolio from "../../Images/portfolio.png"; 
 
 export default function Navbar() {
 
